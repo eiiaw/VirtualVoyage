@@ -1,0 +1,23 @@
+{
+  "name": "virtualvoyage",
+  "version": "1.0.0",
+  "description": "Remade File for \"VirtualVoyage\"\r Title: VirtualVoyage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eiiaw/VirtualVoyage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "cipherscribe": "1.0.0"
+  }
+}
